@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as r,c,b as e,d as a}from"./app-b850aa52.js";const o={},s=e("h1",{id:"深度学习",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#深度学习","aria-hidden":"true"},"#"),a(" 深度学习")],-1),n=[s];function _(d,i){return r(),c("div",null,n)}const f=t(o,[["render",_],["__file","architecture.html.vue"]]);export{f as default};
